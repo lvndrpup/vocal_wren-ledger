@@ -1,7 +1,7 @@
 id: 043e1r929
 kind: issue
 title: Scaffold Android app and core-bridge showing the hello frame
-parent: 
+parent: A
 needs: 
 labels: 
 owner: 
