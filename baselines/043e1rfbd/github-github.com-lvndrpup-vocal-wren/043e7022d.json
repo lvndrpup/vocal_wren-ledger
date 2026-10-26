@@ -7,11 +7,11 @@
     "body": "## Where\n\n.github/workflows/, scripts/\n\n## Goal\n\nGitHub Actions on Ubuntu: Rust fmt/clippy/test/cargo-deny, Android build via cargo-ndk and uniffi-bindgen, 16 KB page alignment check\n\n## Done when\n\nBoth workflows green on an integration branch",
     "comments": [],
     "labels": [],
-    "open": true,
+    "open": false,
     "title": "Add CI for Rust core and Android build",
     "type": ""
   },
-  "synced_at": "2026-10-26T15:55:42Z",
-  "synced_event": "043e1ub51",
-  "synced_hash": "6ccd7ca599ccb3e7"
+  "synced_at": "2026-10-26T17:16:56Z",
+  "synced_event": "043e4xv81",
+  "synced_hash": "c678a11e9178cae7"
 }

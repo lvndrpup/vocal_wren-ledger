@@ -7,11 +7,11 @@
     "body": "## Where\n\nandroid/\n\n## Goal\n\nGradle root wren with :app (Compose) and :core-bridge loading UniFFI Kotlin bindings; no permissions\n\n## Done when\n\nassembleDebug passes in CI with the Rust .so built for arm64-v8a and x86_64",
     "comments": [],
     "labels": [],
-    "open": true,
+    "open": false,
     "title": "Scaffold Android app and core-bridge showing the hello frame",
     "type": ""
   },
-  "synced_at": "2026-10-26T15:55:42Z",
-  "synced_event": "043e1tudt",
-  "synced_hash": "2e7d07e4938b2062"
+  "synced_at": "2026-10-26T17:16:56Z",
+  "synced_event": "043e4x94v",
+  "synced_hash": "f5e4230f83618222"
 }

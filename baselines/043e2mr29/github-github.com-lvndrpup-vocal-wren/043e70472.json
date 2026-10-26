@@ -7,11 +7,11 @@
     "body": "## Where\n\ndocs/salvage/\n\n## Goal\n\nA salvage report mapping voice-trainer (Resonance Scope) assets to Vocal Wren features and milestones\n\n## Done when\n\nReport merged and reviewed by the owner",
     "comments": [],
     "labels": [],
-    "open": true,
+    "open": false,
     "title": "Inventory reusable material from voice-trainer",
     "type": ""
   },
-  "synced_at": "2026-10-26T15:55:44Z",
-  "synced_event": "043e2mz4j",
-  "synced_hash": "88601030e6744b72"
+  "synced_at": "2026-10-26T17:17:00Z",
+  "synced_event": "043e4457r",
+  "synced_hash": "a218ab920b5cd776"
 }

@@ -6,11 +6,11 @@
     "body": "## Goal\n\nKotlin -> Rust -> Kotlin hello-frame round trip builds in GitHub Actions, on a from-scratch qew-tracked repo\n\n## Done when\n\nCI green on main for Rust and Android; app shows 'Core <version> \u00b7 frame 1'",
     "comments": [],
     "labels": [],
-    "open": true,
+    "open": false,
     "title": "M0 Foundations: hello-frame round trip builds in CI",
     "type": ""
   },
-  "synced_at": "2026-10-26T15:55:40Z",
-  "synced_event": "043e1orc1",
-  "synced_hash": "e3d9419551925770"
+  "synced_at": "2026-10-26T17:16:52Z",
+  "synced_event": "043e4yjbu",
+  "synced_hash": "b57f9cc9e27d72ec"
 }
