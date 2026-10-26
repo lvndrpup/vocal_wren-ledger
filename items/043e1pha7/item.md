@@ -1,7 +1,7 @@
 id: 043e1pha7
 kind: issue
 title: Write constitution, agent rules, roadmap and first ADRs
-parent: 
+parent: A
 needs: 
 labels: 
 owner: 
