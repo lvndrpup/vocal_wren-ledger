@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 15,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\nandroid/core, docs/salvage/voice-trainer.md\n\n## Goal\n\nPure-Kotlin McLeod pitch method (NSDF, 0.9 key-maximum threshold) in :core; its clarity maps to a Confidence and frames below threshold report no pitch (principles III, IX, X)\n\n## Done when\n\nTests written first pass on synthetic tones, glides and octave-trap signals across 70-1000 Hz; no per-frame allocation after construction; Frame carries real f0Hz and f0Confidence",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Port the McLeod pitch detector into :core with a confidence",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:12:00Z",
+  "synced_event": "043e9md28",
+  "synced_hash": "284540f727a72a92"
+}

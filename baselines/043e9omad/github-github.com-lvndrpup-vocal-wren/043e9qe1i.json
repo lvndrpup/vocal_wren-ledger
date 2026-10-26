@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 15,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\nandroid/app, android/core, docs/adr/\n\n## Goal\n\nRun capture plus pitch analysis on a low-end device and measure per-block analysis time and GC pause impact, confirming ADR-0006's claim of ample headroom\n\n## Done when\n\nProposed ADR with p50/p99 per-10 ms-block analysis time and observed GC pauses; no dropped capture buffers over a 10-minute session",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Spike: Kotlin analysis throughput and GC pauses on a low-end device",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:12:19Z",
+  "synced_event": "043e9omd3",
+  "synced_hash": "df89460f225c9865"
+}

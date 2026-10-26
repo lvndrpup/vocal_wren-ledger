@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 15,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\nandroid/app, android/core, docs/adr/\n\n## Goal\n\nFind out whether VOICE_RECOGNITION / UNPROCESSED sources and AutomaticGainControl actually disable AGC on real devices, and design an in-core check that flags AGC so weight and loudness metrics lose confidence when it is on\n\n## Done when\n\nProposed ADR with results from at least one real device and the chosen detection approach",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Spike: detect automatic gain control on the input path",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:12:00Z",
+  "synced_event": "043e9npgk",
+  "synced_hash": "6402ba52e07f9831"
+}

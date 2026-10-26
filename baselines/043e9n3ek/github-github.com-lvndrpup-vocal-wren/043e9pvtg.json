@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 15,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\nandroid/core, docs/adr/\n\n## Goal\n\nMeasure how well LPC-based F1/F2 estimation holds up as F0 rises (the old prototype lost F1 above about 280 Hz) and pick an order, window and fallback; per-formant confidence answers OQ-F\n\n## Done when\n\nProposed ADR with an error-vs-F0 table on synthetic vowels and the chosen settings; tests capture the behaviour; real-voice confirmation deferred to the M2 oracle",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Spike: LPC formant analysis at high pitch",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:12:00Z",
+  "synced_event": "043e9n3nz",
+  "synced_hash": "d4ad3fa1cc9501d2"
+}

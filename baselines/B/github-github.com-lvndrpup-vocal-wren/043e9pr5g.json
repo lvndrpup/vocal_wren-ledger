@@ -1,0 +1,16 @@
+{
+  "linked": [],
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Goal\n\nRetire the four M1 risks in docs/roadmap.md before M3 feature work: AudioRecord capture, high-pitch LPC, AGC detection, Kotlin throughput and GC pauses\n\n## Done when\n\nEach spike has a Proposed ADR in docs/adr/ with measured results; owner reviews them",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "M1 Spikes: one ADR per device-risk spike",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:11:56Z",
+  "synced_event": "043e9jk0c",
+  "synced_hash": "42e824c5f5fc54ac"
+}

@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 15,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\nandroid/app (capture thread), docs/adr/\n\n## Goal\n\nCapture mono PCM at 48 kHz with AudioRecord on a dedicated thread into buffers allocated once, handing fixed-size blocks to :core without per-frame allocation or locks (principle IX); RECORD_AUDIO requested only while a session is open, never in the background (I)\n\n## Done when\n\nDebug build captures on a real device; allocation tracker shows zero steady-state allocations on the capture path; dropped-buffer count and achieved sample rate recorded in a Proposed ADR",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Spike: AudioRecord capture without per-frame allocation",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:12:00Z",
+  "synced_event": "043e9kqg7",
+  "synced_hash": "a6a535fa64056d45"
+}
