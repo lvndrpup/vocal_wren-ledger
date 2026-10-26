@@ -1,7 +1,7 @@
 id: 043e1pvcz
 kind: issue
 title: Scaffold Rust core workspace with UniFFI hello frame
-parent: 
+parent: A
 needs: 
 labels: 
 owner: 
