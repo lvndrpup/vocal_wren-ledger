@@ -1,0 +1,7 @@
+name = "vocal_wren-ledger"
+schema_version = 7
+
+[id_mode]
+epic = "letters"  # phases: A, B .. Z, AA ..; or "base35-time" / "counter"
+issue = "base35-time"
+task = "base35-time"
