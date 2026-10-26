@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 1,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\ncore/\n\n## Goal\n\nCargo workspace with vt-analysis (Frame model) and vt-ffi (UniFFI 0.32 exports core_version and hello_frame)\n\n## Done when\n\ncargo fmt/clippy/test/deny pass in CI",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Scaffold Rust core workspace with UniFFI hello frame",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T15:55:42Z",
+  "synced_event": "043e1sz2i",
+  "synced_hash": "76a87b637c0ac9b4"
+}

@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 1,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\nCLAUDE.md, AGENTS.md, README.md, docs/\n\n## Goal\n\nConstitution v1.0.1 (I-XI), qew-based agent rules, roadmap M0-M8, MADR template and Proposed ADRs for the core architecture\n\n## Done when\n\nDocs merged; ADRs status Proposed awaiting the owner",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Write constitution, agent rules, roadmap and first ADRs",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T15:55:42Z",
+  "synced_event": "043e1sk9n",
+  "synced_hash": "16d9e87a1685f900"
+}
