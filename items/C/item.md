@@ -1,0 +1,17 @@
+id: C
+kind: epic
+title: Docs site: contributor guide, voice-science primer, user guide
+parent: 
+needs: 
+labels: 
+owner: 
+priority: 2
+created: 2026-10-26T18:19:01Z
+---
+## Goal
+
+Publish docs/ as one offline-clean static site, adapted from openplush specs/004-docs-site: a contributor guide ordered as a newcomer's path, a Learn part that teaches the voice science the app measures (pitch, formants, resonance, weight, confidence) with cited sources, and a user guide and FAQ built from day one but published only at the first release
+
+## Done when
+
+All child issues completed; site deploys from main with zero dead links and zero remote resource references
