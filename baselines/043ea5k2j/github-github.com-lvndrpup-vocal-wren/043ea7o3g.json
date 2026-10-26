@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 21,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\ndocs/user/\n\n## Goal\n\nUser guide and FAQ in plain words for singers and voice trainees: no code, no IDs, describes only built behaviour, built and checked on every change but published only at the first public release\n\n## Done when\n\nSkeleton and first FAQ entries (is it free, does my voice leave my phone, what does confidence mean) build and pass the checks",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Start the user guide and FAQ, unpublished until release",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:22:23Z",
+  "synced_event": "043ea5k77",
+  "synced_hash": "a091674e8c3c3e88"
+}

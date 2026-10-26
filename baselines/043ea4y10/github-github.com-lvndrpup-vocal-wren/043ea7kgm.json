@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 21,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\nbook.toml, docs/SUMMARY.md, scripts/, .github/workflows/docs.yml\n\n## Goal\n\nBuild the site, check summary completeness, dead links and remote references, upload a preview artifact on every PR, and deploy to GitHub Pages from main only\n\n## Done when\n\nCI fails on an unlisted page, a dead link or a remote reference; main deploys with no manual step; two builds byte-identical",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Build, check and publish the docs site from main",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:22:20Z",
+  "synced_event": "043ea4y4s",
+  "synced_hash": "32ad6657587815ce"
+}

@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 21,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\ndocs/how-to/write-docs.md, docs/_templates/, .claude/skills/docs/\n\n## Goal\n\nOne writing guide that is the only home for documentation rules, one template per page kind (Diataxis plus Learn page, user-guide task, FAQ entry), and a docs skill that holds steps and links to the guide\n\n## Done when\n\nA page written from each template passes the docs checks unchanged",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Add the docs writing guide, page templates and docs skill",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:22:20Z",
+  "synced_event": "043ea4ab7",
+  "synced_hash": "6ec8b1c1f540c722"
+}

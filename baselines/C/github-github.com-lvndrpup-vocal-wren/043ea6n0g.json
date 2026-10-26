@@ -1,0 +1,16 @@
+{
+  "linked": [],
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Goal\n\nPublish docs/ as one offline-clean static site, adapted from openplush specs/004-docs-site: a contributor guide ordered as a newcomer's path, a Learn part that teaches the voice science the app measures (pitch, formants, resonance, weight, confidence) with cited sources, and a user guide and FAQ built from day one but published only at the first release\n\n## Done when\n\nAll child issues completed; site deploys from main with zero dead links and zero remote resource references",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Docs site: contributor guide, voice-science primer, user guide",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:21:47Z",
+  "synced_event": "043ea1waq",
+  "synced_hash": "d870793fd6b67983"
+}

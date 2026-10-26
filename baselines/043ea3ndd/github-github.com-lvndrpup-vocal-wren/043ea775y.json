@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 21,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\nspecs/001-docs-site/, docs/adr/\n\n## Goal\n\nspec.md, research.md and plan.md adapted from openplush specs/004-docs-site for Vocal Wren: three parts (contributor, Learn, user guide), Kotlin API docs via Dokka in place of rustdoc, generator choice re-checked (mdBook as CI-only tooling), no network on page load, Principles Touched and Play Impact sections, and a Proposed ADR for the tools and licences\n\n## Done when\n\nSpec, research and plan merged by the owner; ADR Proposed",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Spec the docs site, adapting openplush 004-docs-site",
+    "type": ""
+  },
+  "synced_at": "2026-10-26T18:22:07Z",
+  "synced_event": "043ea3nii",
+  "synced_hash": "6cb72970cf97376e"
+}
