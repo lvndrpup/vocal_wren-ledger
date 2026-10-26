@@ -6,11 +6,11 @@
     "body": "## Where\n\nandroid/, core/, scripts/, .github/, docs/\n\n## Goal\n\nOne language: DSP, analysis, confidence, safety and coaching live in a pure-Kotlin :core module; Rust, UniFFI, JNA and the NDK are removed; constitution IX amended\n\n## Done when\n\nCI green; constitution v2.0.0 and ADR-0006 merged by the owner",
     "comments": [],
     "labels": [],
-    "open": true,
+    "open": false,
     "title": "Replace the Rust core with a pure-Kotlin core module",
     "type": ""
   },
-  "synced_at": "2026-10-26T17:16:51Z",
-  "synced_event": "043e6yf18",
-  "synced_hash": "5b3f1adbdfd72ad6"
+  "synced_at": "2026-10-26T17:51:17Z",
+  "synced_event": "043e8oh77",
+  "synced_hash": "050ada3abc21ae67"
 }
