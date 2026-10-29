@@ -7,11 +7,11 @@
     "body": "## Where\n\ndocs/learn/, docs/reference/glossary.md\n\n## Goal\n\nPlain-language pages a non-specialist can learn from: sound and frequency, F0 and pitch, the source-filter model, formants and resonance, vocal weight, LPC and pitch detection at the level the code uses them, why every metric carries a confidence, and AGC. One glossary defines every domain term and ID prefix. Every factual claim cites a source (textbooks, Praat manual, peer-reviewed papers); no gender framing (principle on gender), no medical claims\n\n## Done when\n\nGlossary covers every domain term used in docs/ and the constitution; each Learn page has a Sources section; owner reads it and can explain formant and resonance in their own words",
     "comments": [],
     "labels": [],
-    "open": true,
+    "open": false,
     "title": "Write the Learn primer and glossary for voice science terms",
     "type": ""
   },
-  "synced_at": "2026-10-26T18:31:07Z",
-  "synced_event": "043eam8fu",
-  "synced_hash": "a4d78d894a9b25fe"
+  "synced_at": "2026-10-29T22:29:53Z",
+  "synced_event": "043kopvd2",
+  "synced_hash": "cef187294880f634"
 }

@@ -1,0 +1,16 @@
+{
+  "linked": [],
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\ndocs/play-checklist.md\n\n## Goal\n\nOne checklist of the Google Play policies Vocal Wren must meet (User Data and privacy policy, Data safety form, permissions for RECORD_AUDIO and POST_NOTIFICATIONS, health and medical claims, deceptive behaviour, target API level, store listing), each with a stable ID and a link to the current policy text, so specs can cite IDs in their Play Impact sections as CLAUDE.md requires\n\n## Done when\n\nChecklist merged with an ID per point; spec 001's Play Impact rows updated with IDs",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Write the Google Play policy checklist with stable IDs",
+    "type": ""
+  },
+  "synced_at": "2026-10-29T22:29:50Z",
+  "synced_event": "043koqtdz",
+  "synced_hash": "cd706c4ba24237e2"
+}
