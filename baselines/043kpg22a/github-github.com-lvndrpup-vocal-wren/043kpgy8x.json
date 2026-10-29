@@ -1,0 +1,19 @@
+{
+  "linked": [],
+  "parent_number": 21,
+  "seen": {
+    "assignee": "lvndrpup",
+    "assignees": [
+      "lvndrpup"
+    ],
+    "body": "## Where\n\n.qew/config.toml\n\n## Goal\n\nqew assigns claimed issues and opened pull requests to the owner's GitHub login, lvndrpup, instead of the actor name the forge refuses\n\n## Done when\n\nThe next qew pr open assigns the pull request to lvndrpup with no forge-refused note",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Set the qew forge login to lvndrpup",
+    "type": ""
+  },
+  "synced_at": "2026-10-29T22:41:08Z",
+  "synced_event": "043kpgm18",
+  "synced_hash": "470031e7c5cea145"
+}
