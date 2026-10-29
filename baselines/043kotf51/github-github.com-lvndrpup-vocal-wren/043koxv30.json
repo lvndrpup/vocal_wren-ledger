@@ -1,0 +1,17 @@
+{
+  "linked": [],
+  "parent_number": 21,
+  "seen": {
+    "assignee": "",
+    "assignees": [],
+    "body": "## Where\n\ndocs/privacy/ (its own one-page book), scripts/docs/, .github/workflows/docs.yml\n\n## Goal\n\nThe privacy policy Google Play needs, at a stable URL (/privacy/) on the docs site, published as soon as it is written and outside the user book (spec 001 FR-006, plan D-015). One Markdown source, so F14 can bundle the same text in the app\n\n## Done when\n\nPage published at /privacy/; it states only what the app does today; Play checklist rows for the privacy policy cite it; owner merges",
+    "comments": [],
+    "labels": [],
+    "open": true,
+    "title": "Publish the privacy policy as its own page on the docs site",
+    "type": ""
+  },
+  "synced_at": "2026-10-29T22:30:00Z",
+  "synced_event": "043kotf7t",
+  "synced_hash": "3f8f3e8faeb8e8e8"
+}
